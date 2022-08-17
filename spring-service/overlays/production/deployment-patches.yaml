@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
       - name: hello-service
-        image: nexus-registry-2-nexus.apps.cluster-lb0eba.lb0eba.example.opentlc.com/hello-spring-dev/hello-service:prod-2022-08-17-17-15-12
+        image: nexus-registry-nexus.apps.cluster-lbdc04.lbdc04.example.opentlc.com/hello-spring-dev/hello-service:prod-2022-08-17-17-15-12
