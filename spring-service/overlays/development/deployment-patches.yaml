@@ -7,4 +7,5 @@ spec:
     spec:
       containers:
       - name: hello-service
-        image: quay.senac.br/hello-dev/hello-service:dev-2022-08-16-15-54-11
+        image: nexus-registry-nexus.apps.cluster-tqkcs.tqkcs.sandbox944.opentlc.com/repository/docker/hello-dev/hello-service:dev-2022-08-16-15-54-11
+        
