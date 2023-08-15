@@ -8,4 +8,4 @@ bases:
 namespace: hello-prod
 
 patches:
-- ./deployment-patches.yaml
+- path: ./deployment-patches.yaml
